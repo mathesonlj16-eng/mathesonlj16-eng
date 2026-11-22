@@ -1,29 +1,39 @@
 # Lucas Matheson
 
-Full-Stack Developer | Python, TypeScript, React, APIs & AI Automation
+**Software Engineer | AI Systems, Performance & Security**
 
-I'm completing a BSc in Computer Science at Wilfrid Laurier University, expected December 2026. I build full-stack software, technical integrations, AI-assisted automation, and data tools — working independently from Sault Ste. Marie, Ontario.
+I'm completing a BSc in Computer Science at Wilfrid Laurier University (expected December 2026). I build full-stack applications and investigate lower-level engineering problems involving compilers, GPU inference, and software security.
 
-## What I do
+Based in Sault Ste. Marie, Ontario. I work independently across implementation, testing, profiling, and documentation.
 
-- **Full-stack development** — Python (FastAPI), TypeScript, React, APIs, databases and dashboards
-- **AI automation** — local-LLM workflows with human approval, evaluation, and safe handoffs to tools such as n8n
-- **Data & analytics** — time-series evaluation, baselines and stress tests, evidence handling for conflicting sources
-- **WordPress / CMS** — plugins and moderation workflows, with Docker-based local development
+## Current interests
 
-## Featured projects
+- **Systems and performance engineering** — LLVM/Clang, native-code behavior, benchmarking, reproducible performance investigations, CUDA and GPU profiling.
+- **AI systems** — local LLMs, inference behavior, model evaluation, and performance tradeoffs.
+- **Security engineering** — identity verification, authorization boundaries, GitHub Actions OIDC, and negative-case testing.
+- **Full-stack software** — Python, TypeScript, React, APIs, databases, dashboards, and practical automation.
 
-- **AgencyFlow-AI** — Local-first AI ops tool: a client brief becomes a validated campaign plan, a human approves it, and only then do tasks reach n8n. FastAPI, Ollama, n8n, SQLite. Includes a demo video, 14 screenshots, and a live evaluation (98% on tuned briefs, 89% held-out).
-- **athlete-performance-intelligence** — Python ML research: can past athlete testing measurements beat repeating the last result? Chronological evaluation, baselines, and stress tests that show where the model fails as well as where it helps. Synthetic data only.
-- **notice-atlas-demo** — Procurement intelligence dashboard on 18 fictional notices: filtering, evidence inspection, and disputed deadlines held out of reporting until verified. Python standard library only.
-- **community-resource-workflow-demo** — WordPress plugin for a moderated community resource directory: anonymous suggestions, staff review, and publishing. PHP, Docker Compose.
-- **approval-autopsy-oidc-lab** — GitHub Actions OIDC lab: verifying job identity before build or release operations, including negative-case tests.
+## Selected work
+
+- **[LLVM Performance Investigator](https://github.com/mathesonlj16-eng/llvm-performance-investigator)** — Compiler investigations covering loop vectorization, aliasing, machine code, and measured runtime behavior, plus a small verified LLVM pass. Reports include reproducibility instructions and limitations.
+- **[llama.cpp CUDA SET_ROWS contribution proposal](https://github.com/ggml-org/llama.cpp/pull/32832)** — Submitted upstream PR addressing F16-to-F32 SET_ROWS support and a RoPE fusion issue. **Proposed contribution; not presented as merged.**
+- **[Approval Autopsy — OIDC Lab](https://github.com/mathesonlj16-eng/approval-autopsy-oidc-lab)** — Experimental security lab that verifies GitHub Actions job identity and exercises incorrect-audience, cross-role, replay, and other negative cases.
+- **[AgencyFlow AI](https://github.com/mathesonlj16-eng/AgencyFlow-AI)** — Local-first AI workflow application using FastAPI, Ollama, n8n, and SQLite, with evaluation and human-controlled execution.
+- **[Athlete Performance Intelligence](https://github.com/mathesonlj16-eng/athlete-performance-intelligence)** — Time-ordered ML evaluation against simple baselines, using synthetic athlete data and stress tests.
+- **[Notice Atlas](https://github.com/mathesonlj16-eng/notice-atlas-demo)** — Procurement intelligence demo that handles conflicting evidence and excludes unverified deadlines from reporting.
+- **[Community Resource Workflow](https://github.com/mathesonlj16-eng/community-resource-workflow-demo)** — WordPress plugin for moderated community resource submissions and publication.
+
+## How I work
+
+I prefer small reproducible experiments, measurable results, and explicit limitations. In research-oriented work, I distinguish an observed effect from a proven cause; in product work, I focus on delivering a functional end-to-end system.
 
 ## Currently
 
-- Completing my BSc in Computer Science at Wilfrid Laurier University (expected December 2026)
-- Building independent software, automation, and data projects; open to full-stack, software engineering, technical integration, AI automation, and data analytics roles
+- Completing my BSc in Computer Science (expected December 2026)
+- Exploring compiler and GPU performance, AI infrastructure, and security while continuing full-stack development
+- Open to software engineering roles across full-stack, systems, developer tooling, AI infrastructure, and security-related teams
 
 ## Contact
 
-- GitHub: https://github.com/mathesonlj16-eng
+- [LinkedIn](https://www.linkedin.com/in/lucas-matheson-251521349/)
+- [GitHub](https://github.com/mathesonlj16-eng)
