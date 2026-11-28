@@ -37,5 +37,4 @@ I prefer small reproducible experiments, measurable results, and explicit limita
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-matheson-251521349/)
-- [GitHub](https://github.com/mathesonlj16-eng)
 - mathesonlj16@gmail.com
