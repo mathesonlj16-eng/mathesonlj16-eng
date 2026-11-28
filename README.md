@@ -4,7 +4,7 @@
 
 BSc in Computer Science at Wilfrid Laurier University (expected December 2026). I build full-stack applications and investigate lower-level engineering problems involving compilers, GPU inference, and software security.
 
-Based in Sault Ste. Marie, Ontario. I work independently across implementation, testing, profiling, and documentation.
+Ontario, Canada
 
 ## Current interests
 
